@@ -2,3 +2,4 @@
 *swp
 notebook.conf
 .ipynb_checkpoints
+*.csv
