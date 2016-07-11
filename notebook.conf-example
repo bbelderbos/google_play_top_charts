@@ -1,0 +1,5 @@
+[vars]
+apikey = xyz
+country = ES
+compare_country = US
+limit = 20
