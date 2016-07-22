@@ -3,3 +3,7 @@
 notebook.conf
 .ipynb_checkpoints
 *.csv
+*.json
+*.ods
+test*.py
+*lock.data*
